@@ -1,0 +1,104 @@
+.tweet {
+    display: flex;
+    align-items: stretch;
+}
+
+.tweet-card {
+   background-color: lightpink !important;
+   width: 90%;
+   max-width: 40rem;
+   padding: 0.5rem;
+   margin: 1rem;
+   text-align: left !important;
+ }
+
+ .avatar{
+    display: block;
+    flex: 0.9;
+    display: flex;
+    flex-direction: column;
+ }
+
+ .avatar img{
+    margin: auto;
+    max-width: 90%;
+    max-height: 90%;
+ }
+
+ .edit-delete{
+   display: flex;
+    height: 20%;
+    padding: 10px;
+    padding-top: 5px;
+ }
+
+ .edit-delete div{
+   background-color: lightpink;
+   flex: 50%;
+ }
+
+ .edit-delete div button{
+   background-color: lightpink;
+   border: none;
+   cursor: pointer;
+ }
+
+ .tweet-box{
+    display: flex;
+    flex: 3.1;
+    flex-direction: column;
+ }
+
+ .tweet-top-bar{
+    display: flex;
+    height: 20%;
+ }
+
+ .tweet-top-bar div{
+    text-align: right;
+    flex: 2;
+ }
+
+ .username{
+    vertical-align: middle ;
+    text-decoration: none;
+    cursor: pointer;
+ }
+
+ .tweet-message{
+   margin-top: 8px;
+    padding: 5px;
+    min-height: 50%;
+ }
+
+ .tweet-bottom-bar{
+    display: flex;
+    height: 20%;
+    padding-bottom: 40px;
+ }
+
+ .tweet-bottom-bar div{
+   background-color: lightpink;
+   flex: 33%;
+ }
+
+ .tweet-bottom-bar div button{
+   background-color: lightpink;
+   border: none;
+   cursor: pointer;
+ }
+
+ .replies{
+   background-color: aqua;
+ }
+
+ .login {
+   width: 90%;
+   max-width: 40rem;
+   margin: 2rem auto;
+   padding: 2rem;
+ }
+ 
+ .actions {
+   text-align: center;
+ }

@@ -1,0 +1,19 @@
+.login {
+    width: 90%;
+    max-width: 40rem;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  
+.actions {
+  text-align: center;
+}
+
+.btn{
+  margin: 1rem;
+}
+
+.error{
+  color: red;
+  margin-left: 25%;
+}

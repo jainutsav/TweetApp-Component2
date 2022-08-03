@@ -1,0 +1,30 @@
+.login {
+  width: 90%;
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.actions {
+  text-align: center;
+}
+
+.btn{
+  margin: 1rem;
+}
+
+.forgotPassword{
+  float: right;
+  width: 80%;
+  max-width: 40rem;
+  margin: 0.5rem;
+}
+
+.forgotPassword a{
+  float: right;
+}
+
+.error{
+  color: red;
+  margin-left: 25%;
+}

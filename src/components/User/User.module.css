@@ -1,0 +1,17 @@
+.login {
+    width: 90%;
+    max-width: 40rem;
+    margin: 2rem auto;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  .login ul{
+    list-style: none;
+  }
+
+  .link{
+    vertical-align: middle ;
+    text-decoration: none;
+    cursor: pointer;
+ }

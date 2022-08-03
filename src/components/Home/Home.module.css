@@ -1,0 +1,14 @@
+.home {
+  width: 90%;
+  max-width: 40rem;
+  padding: 3rem;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+.tweet {
+  width: 90%;
+  max-width: 40rem;
+  padding: 0.5rem;
+  margin: 1rem;
+}
